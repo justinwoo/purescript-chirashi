@@ -6,6 +6,8 @@
 
 An easy way to work with `Error`s by inserting a `Variant`, and reading it out later.
 
+Works by subclassing Error.
+
 ![](https://i.imgur.com/468wLLl.jpg)
 
 ## Usage
