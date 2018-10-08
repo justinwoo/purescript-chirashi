@@ -33,3 +33,7 @@ main = do
 ```
 
 See tests for more examples.
+
+## Other links
+
+For more ideas on what you could do with this library, see [Ochadzuke](https://github.com/justinwoo/purescript-ochadzuke#usage).
